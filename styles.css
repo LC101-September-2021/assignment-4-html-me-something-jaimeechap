@@ -1,1 +1,41 @@
-/* Write your CSS here! */
+body {
+  background-color: plum;
+  font-family: -apple-system, BlinkMacSystemFont, Oxygen;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 80px;
+  }
+
+.stylish {
+    font-weight: 30px;
+}
+
+#image1 {
+    align-items: center;
+    border-radius: 50%;
+}
+
+#image2{
+    align-items: center;
+    border-radius: 50%;
+}
